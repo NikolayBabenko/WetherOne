@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ForWork10.01.19</string>
+    <string name="btnWether">Wether</string>
+    <string name="btnNews">News</string>
+    <string name="title_activity_wether">Wether</string>
+    <string name="city_name">Kiev</string>
+    <string name="findWeather">Find Weather</string>
+</resources>
